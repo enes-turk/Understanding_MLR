@@ -5,7 +5,7 @@
 [last updated in 12th February 2024]
 
 Hi, I'm Enes,
-In this study I will share my findings in a popular statistical analysis model MLR from the point of view of a beginner in Data Science and Statistics fields. In this work it is not the intention to reinvent the wheel but to see that our knowledge is not just copy pasting common library tools but to achieve the same through using a more manual method.
+In this study I will share my notes in a popular statistical analysis model MLR from the point of view of a beginner in Data Science and Statistics fields. In this work it is not the intention to reinvent the wheel but to see that our knowledge is not just copy pasting common library tools but to achieve the same through using a more manual method.
 
 The project notes will be highly based on the following textbook;
 - <b><i>Introduction to Econometrics</i></b>,  by James H. Stock and Mark W. Watson
