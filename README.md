@@ -16,7 +16,7 @@ and sites:
 - https://en.wikipedia.org/wiki/Ordinary_least_squares
 
 ## Main Focus
-This project aims to explain the Multiple Linear Regression model by firstly interpreting the model manually with matrix approach to observe what is really going on inside then using more modern and easy approach by implenting Scikit-learn library. At the end we will attain an analysis with the model.
+This project aims to explain the Multiple Linear Regression model by firstly interpreting the model manually by matrix approach to observe what is really going on inside then using more modern and easy approach by implenting Scikit-learn library. At the end we will attain an analysis with the model.
 
 ## Prerequisites
 You would benefit a better understanding from this project if you have a basic knowledge in the following libraries:
