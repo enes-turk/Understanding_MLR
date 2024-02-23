@@ -21,7 +21,6 @@ This project aims to explain the Multiple Linear Regression model by firstly int
 ## Prerequisites
 You would benefit a better understanding from this project if you have a basic knowledge in the following libraries:
 - NumPy
-- Matplotlib
 - Pandas
 
 ## Troubleshooting
