@@ -2,7 +2,6 @@
 <hr />
 
 # Understanding Multiple Linear Regression
-[last updated in 12th February 2024]
 
 Hi, I'm Enes,
 In this study I will share my notes in a popular statistical analysis model MLR from the point of view of a beginner in Data Science and Statistics fields. In this work it is not the intention to reinvent the wheel but to see that our knowledge is not just copy pasting common library tools but to achieve the same through using a more manual method.
@@ -22,6 +21,3 @@ This project aims to explain the Multiple Linear Regression model by firstly int
 You would benefit a better understanding from this project if you have a basic knowledge in the following libraries:
 - NumPy
 - Pandas
-
-## Troubleshooting
-Nothing in here so far!
